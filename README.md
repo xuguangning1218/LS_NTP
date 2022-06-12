@@ -47,4 +47,4 @@ When the conda environment and datasets are ready, you can train or reproduce ou
 
 
 ### Overall Architecture of LS-NTP
-![image](https://github.com/xuguangning1218/TI_Prediction/blob/master/figure/Model.png)
+![image](https://github.com/xuguangning1218/LS_NTP/blob/master/figure/network.png)

@@ -1,4 +1,4 @@
-name: LS_NTP
+name: reanalysis_data_prediction
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
   - conda-forge

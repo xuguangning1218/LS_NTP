@@ -1,6 +1,8 @@
 #  Near-surface Temperature Prediction
 
 Official source code for paper 《LS-NTP: Unifying Long- and Short-range Spatial Correlations for Near-surface Temperature Prediction》
+### Overall Architecture of LS-NTP
+![image](https://github.com/xuguangning1218/LS_NTP/blob/master/figure/network.png)
 
 ### Environment Installation
 ```
@@ -44,7 +46,3 @@ Run_ncep.ipynb # jupyter visualized code for the whole procedure on ERA5
 ### Run
 
 When the conda environment and datasets are ready, you can train or reproduce our result by runing file `Run_era5.ipynb` or `Run_ncep.ipynb`.
-
-
-### Overall Architecture of LS-NTP
-![image](https://github.com/xuguangning1218/LS_NTP/blob/master/figure/network.png)

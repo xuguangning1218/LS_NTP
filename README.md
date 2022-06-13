@@ -40,7 +40,7 @@ We provide one of the five runs best-validated models for both ERA5 and NCEP dat
 lsntp_era5.config  # model configure for ERA5
 lsntp_ncep.config # model configure for NCEP
 Run_era5.ipynb # jupyter visualized code for the whole procedure on ERA5
-Run_ncep.ipynb # jupyter visualized code for the whole procedure on ERA5
+Run_ncep.ipynb # jupyter visualized code for the whole procedure on NCEP
 ```
 
 ### Run

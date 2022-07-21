@@ -54,7 +54,7 @@ If you find this code or idea useful, please cite our work:
 @article{xu2022ls,
   title={LS-NTP: Unifying Long- and Short-range Spatial Correlations for Near-surface Temperature Prediction},
   author={Guangning Xu, Xutao Li, Shanshan Feng, Yunming Ye, Zhihua Tu, Kenghong Lin, Zhichao Huang},
-  journal={Neural Computing and Applications},
+  journal={Neural Networks},
   volume={},
   pages={},
   dio={In Press}

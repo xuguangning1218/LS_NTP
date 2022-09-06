@@ -51,9 +51,11 @@ When the conda environment and datasets are ready, you can train or reproduce ou
 ### Citation
 If you find this code or idea useful, please cite our work:
 ```bib
-@article{xu2022ls,
+@article{XU2022242,
   title = {LS-NTP: Unifying long- and short-range spatial correlations for Near-surface Temperature Prediction},
   journal = {Neural Networks},
+  volume = {155},
+  pages = {242-257},
   year = {2022},
   issn = {0893-6080},
   doi = {https://doi.org/10.1016/j.neunet.2022.07.022},

@@ -46,7 +46,7 @@ Run_ncep.ipynb # jupyter visualized code for the whole procedure on NCEP
 
 ### Run
 
-When the conda environment and datasets are ready, you can train or reproduce our result by runing file `Run_era5.ipynb` or `Run_ncep.ipynb`.
+When the conda environment and datasets are ready, you can train or reproduce our result by running file `Run_era5.ipynb` or `Run_ncep.ipynb`.
 
 ### Citation
 If you find this code or idea useful, please cite our work:

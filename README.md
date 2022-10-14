@@ -14,7 +14,7 @@ conda env create -f LS_NTP.yaml
 * Or you can download the preprocessing data from my google drive through [here](<https://drive.google.com/drive/folders/1AWxRfWDtAOejI9y7PK1V0f92Gjlchhfi?usp=sharing> "here").
 
 ###  Reproducibility
-We provide one of the five runs best-validated models for both ERA5 and NCEP datasets in [here](<https://drive.google.com/drive/folders/1wp7odEkxfLxLeHAH36q3y2TUzMk1PWt6?usp=sharing>  "here").  You can reproduce the result reported in the paper using these best-validated models.
+We provide one of the five runs best-validated models for both ERA5 and NCEP datasets in [here](<https://drive.google.com/drive/folders/1wp7odEkxfLxLeHAH36q3y2TUzMk1PWt6?usp=sharing>  "here").  You can reproduce the result reported in the paper using this best-validated model.
 
 
 ###  Source Files Description

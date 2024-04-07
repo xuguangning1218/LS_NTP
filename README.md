@@ -11,7 +11,8 @@ conda env create -f LS_NTP.yaml
 
 ### Data Preparation 
 * Download the required temperature dataset from ERA5 offical site through [here](<https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview> "here") and the required temperature dataset from NCEP offical site through [here](<https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html>  "here"). 
-* Or you can download the preprocessing data from my google drive through [here](<https://drive.google.com/drive/folders/1AWxRfWDtAOejI9y7PK1V0f92Gjlchhfi?usp=sharing> "here").
+* ~~Or you can download the preprocessing data from my google drive through [here](<https://drive.google.com/drive/folders/1AWxRfWDtAOejI9y7PK1V0f92Gjlchhfi?usp=sharing> "here").~~
+* Or you can download the preprocessing data from my baidu drive through [here](< https://pan.baidu.com/s/1UPp2DgPwBUGSQBA_ofnMAg?pwd=dh7i> "here")
 
 ###  Reproducibility
 We provide one of the five runs best-validated models for both ERA5 and NCEP datasets in [here](<https://drive.google.com/drive/folders/1wp7odEkxfLxLeHAH36q3y2TUzMk1PWt6?usp=sharing>  "here").  You can reproduce the result reported in the paper using this best-validated model.
